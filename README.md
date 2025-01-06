@@ -55,9 +55,9 @@
 - Enjoy listening to Ghost live in Madison Square Garden
   
 ## Day 6 - Free Day:
-● Use this day to plan something not in the itinerary, relax, explore your favorite sites, or do
+- Use this day to plan something not in the itinerary, relax, explore your favorite sites, or do
 something you missed on a previous day.
 
 ## Day 7 - Traveling Back Home:
-● Arrive at the airport in Newark, NJ
-● Travel back to NL
+- Arrive at the airport in Newark, NJ
+- Travel back to NL
