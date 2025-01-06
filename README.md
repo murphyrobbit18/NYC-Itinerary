@@ -1,10 +1,10 @@
 # New York City Travel Itinerary
 
-## Day 1 - Traveling to NYC:
+## Day 1 - Traveling to NYC
 - Fly to NYC
 - Arrive at hotel late at night
 
-## Day 2 - Exploring Midtown NYC:
+## Day 2 - Exploring Midtown NYC
 ### Morning:
 - Walk by Empire State Building
 - Explore Bryant Park and NYC Public Library
@@ -22,7 +22,7 @@
 ### Late Evening:
 - Do a tour of the Empire State Building
 
-## Day 3 - Lower Manhattan and Staten Island:
+## Day 3 - Lower Manhattan and Staten Island
 ### Morning:
 - Go to the Financial District to catch Staten Island Ferry
 - Go to Chinese Scholar’s Garden
@@ -33,7 +33,7 @@
 ### Evening:
 - Explore Little Italy and Chinatown
 
-## Day 4 - Greenwich Village & Broadway:
+## Day 4 - Greenwich Village & Broadway
 ### Morning:
 - Go to Greenwich Village
 - Go to Washington Square Park and Stonewall Inn
@@ -45,7 +45,7 @@
 ### Evening:
 - See a Broadway show
 
-## Day 5 - Concert Night:
+## Day 5 - Concert Night
 ### Morning:
 - Walk to St. Patrick’s Cathedral / UN Headquarters
 - Go to the Morgan Library & Museum
@@ -54,10 +54,10 @@
 ### Evening:
 - Enjoy listening to Ghost live in Madison Square Garden
   
-## Day 6 - Free Day:
+## Day 6 - Free Day
 - Use this day to plan something not in the itinerary, relax, explore your favorite sites, or do
 something you missed on a previous day.
 
-## Day 7 - Traveling Back Home:
+## Day 7 - Traveling Back Home
 - Arrive at the airport in Newark, NJ
 - Travel back to NL
